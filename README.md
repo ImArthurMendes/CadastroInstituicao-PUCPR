@@ -1,0 +1,1 @@
+Repositório do projeto da disciplina de Raciocínio Computacional no curso de ADS na PUCP. Desenvolvido em Python, o sistema simula controle de matrícula de alunos, professores e matérias, aplicando conceitos de lógica e programação aprendidos na matéria.

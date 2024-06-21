@@ -1,0 +1,1 @@
+{"students": [{"code": 1, "name": "Alfredo", "cpf": "07563452940"}], "disciplines": [], "teachers": "1", "classes": [{"code": 1, "name": "Filosofia"}, {"code": 1, "name": "Filsofia 2"}, {"code": 1, "name": "1"}, {"code": 2, "name": "Filosofia"}], "enrollments": [{"student_code": 1, "class_code": 2}]}
